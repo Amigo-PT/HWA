@@ -1,24 +1,17 @@
+[
 {
-  "version": "2026-02-18T12:00:00A",
-  "tips": [
-    {
-      "id": "t20260218_02",
-      "date": "2026-02-18",
-      "time": "09:00",
-      "ar": {
-        "title": "انطلاقة جديدة",
-        "content": " hnshsjhkjdjndkddتذكّر أن الصحة تكمن في توازن الجسد والعقل؛ اجعل اليوم بداية لعادات صحية بسيطة."
-      },
-      "en": {
-        "title": "New Beginning",
-        "content": "Remember health is balance between body and mind; make today the start of simple healthy habits."
-      },
-      "de": {
-        "title": "Neuanfang",
-        "content": "Denken Sie daran, dass Gesundheit ein Gleichgewicht von Körper und Geist ist; starten Sie heute mit kleinen gesunden Gewohnheiten."
-      },
-      "image": null,
-      "tags": ["motivation","start"]
-    },
-  ]
+"date": "2026-02-18",
+"ar": {
+"title": "كن إيجابياً",
+"content": "كن إيجابياً ومتفائلاً في حياتك، فالتفاؤل يعزز الصحة العامة."
+},
+"en": {
+"title": "Be Positive",
+"content": "Be positive and optimistic in your life, as optimism boosts general health."
+},
+"de": {
+"title": "Sei positiv",
+"content": "Seien Sie positiv und optimistisch in Ihrem Leben, denn Optimismus fördert die allgemeine Gesundheit."
 }
+}
+]
