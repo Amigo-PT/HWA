@@ -1,9 +1,9 @@
 [
   {
-    "id": "20260212",
+    "id": "20260213",
     "ar": {
       "title": "🌙 test2",
-      "content": "هناك استبيان جديد لك! [اضغط هنا لفتحه](https://ee.kobotoolbox.org/x/888g0uI8)"
+      "content": "هناك استبيان جديد لك! <a href=\"https://ee.kobotoolbox.org/x/888g0uI8\">اضغط هنا لفتحه</a>"
     },
     "en": {
       "title": "🌙 A Gentle Welcome for Your Digestive System",
