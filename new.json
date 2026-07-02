@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.2",
+  "latestVersion": "2.0.1",
   "downloadUrl": "https://github.com/Amigo-PT/HWA/releases/download/Takamol/Takamol.v2.0.1.apk",
   "releaseNotes": "أهلاً بكم في التحديث الجديد! إليكم أبرز التغييرات:\n\n⚙️ تحسين الأداء:تحسينات داخلية لضمان سرعة واستجابة أفضل للتطبيق.\n🔒 تنبيه: تم قفل صفحة التمارين في هذا الإصدار.",
-  "isMandatory": false
+  "isMandatory": true
 }
